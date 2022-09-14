@@ -1,0 +1,22 @@
+{
+  "name": "berteletele",
+  "version": "0.0.1-alpha",
+  "description": "package to create Telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mengkodingan/berteletele.git"
+  },
+  "keywords": [
+    "telegram"
+  ],
+  "author": "JstnLT <jastinlinggar@gmail.com> (https://jstnlt.my.id)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mengkodingan/berteletele/issues"
+  },
+  "homepage": "https://github.com/Mengkodingan/berteletele#readme"
+}
