@@ -13,7 +13,13 @@
   "keywords": [
     "telegram"
   ],
-  "author": "JstnLT <jastinlinggar@gmail.com> (https://jstnlt.my.id)",
+  "contributors": [
+    {
+      "name" : "JstnLT",
+      "email" : "jastinlinggar@gmail.com",
+      "url" : "https://jstnlt.my.id/"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Mengkodingan/berteletele/issues"
